@@ -1,0 +1,18 @@
+.dem-tools/
+__pycache__/
+jezero.tif
+M20_JezeroCrater_CTXDEM_20m.tif
+jezero-full.f32
+jezero-thermal.f32
+WE__0048*
+data/
+builds/
+
+# Local environments, input rasters, logs, and submission archives
+.venv/
+*.tif
+*.tiff
+*.log
+.env
+.env.*
+/ares-field-atlas-submission.zip
