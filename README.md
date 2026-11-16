@@ -43,6 +43,8 @@ Save the GeoTIFFs in `data/` at the project root using the filenames below. You 
 | `M20_JezeroCrater_CTXDEM_20m.tif` | [Download the USGS elevation GeoTIFF](https://asc-pds-services.s3.us-west-2.amazonaws.com/mosaic/mars2020_trn/CTX/ScienceInvestigationMaps_JPL/M20_JezeroCrater_CTXDEM_20m.tif) | Required for the Jezero routing demo. Keep the original filename (about 90 MB). |
 | `jezero-crism-minerals.tif` | [Download the Zenodo CRISM archive](https://zenodo.org/records/22257754/files/jezero_rim_maps_v1_core.zip?download=1) | Optional. Extract `jezero_rim_maps_v1/01_geologic_map/geologic_map_CRISM_only.tif` and rename it to `jezero-crism-minerals.tif`. |
 | `jezero-thermal-source.tif` | [Download the Edwards and Buz THEMIS GeoTIFF](https://zenodo.org/records/4931348/files/Jezero_Thermal_Inertia_v1.tiff?download=1) | Optional. Rename `Jezero_Thermal_Inertia_v1.tiff` to `jezero-thermal-source.tif`. |
+<img width="2357" height="1377" alt="image" src="https://github.com/user-attachments/assets/1c51ddc5-a8a8-4c1e-94e8-47df4eda5704" />
+
 
 ## How it works
 
