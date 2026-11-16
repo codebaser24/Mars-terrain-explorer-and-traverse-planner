@@ -59,6 +59,9 @@ Save the GeoTIFFs in `data/` at the project root using the filenames below. You 
 - The route engine uses A* over eight neighboring cells, with elevation-derived slope limits and profile-specific costs. It avoids missing elevation cells.
 - The elevation band selected during import controls route costs. Alignment preview uses raster bounding boxes to estimate overlap.
 
+  <img width="2277" height="1370" alt="image" src="https://github.com/user-attachments/assets/287ce891-61b1-4d5a-b75f-d0ddc66aadfc" />
+
+
 For your own data, use a north-up projected elevation GeoTIFF with linear units. If the band metadata is ambiguous, place a sidecar next to the raster. For example, name the following file `example.tif.layers.json` for `example.tif`:
 
 ```json
