@@ -1,6 +1,8 @@
 # ARES / Field Atlas
 
 ARES is an educational Mars traverse planner for Jezero Crater. Load a georeferenced elevation raster, explore terrain and slope hazards, and compare routes between science waypoints. The project combines a browser dashboard with a local Python backend.
+![Uploading image.png…]()
+
 
 ## Run locally
 
