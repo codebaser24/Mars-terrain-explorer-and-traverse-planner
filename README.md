@@ -80,6 +80,10 @@ For your own data, use a north-up projected elevation GeoTIFF with linear units.
 - The surface conditions panel uses [archived Perseverance MEDA observations](https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/) and a daylight estimate based on the [NASA Mars24 algorithm](https://www.giss.nasa.gov/tools/mars24/help/algorithm.html).
 - Mission playback and life-support estimates are illustrative. The terrain model cannot resolve obstacles smaller than its raster cells.
 
+  ## Live demo
+
+[Launch RedHorizon on Azure](https://redhorizon-demo.southindia.cloudapp.azure.com/)
+
 ## Team
 
 - **Vindeepa** — Project lead and co-developer
